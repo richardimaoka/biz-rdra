@@ -1,3 +1,11 @@
 type Query {
   home: String
 }
+
+type Requirement {
+  text: String
+}
+
+type Actor {
+  name: String
+}  
